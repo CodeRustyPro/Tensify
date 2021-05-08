@@ -1,3 +1,3 @@
-# Tensify
+# Tensify™
 
 An easy to use python package to convert your tenses...
