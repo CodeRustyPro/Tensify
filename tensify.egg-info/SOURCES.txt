@@ -1,0 +1,6 @@
+README.md
+setup.py
+tensify.egg-info/PKG-INFO
+tensify.egg-info/SOURCES.txt
+tensify.egg-info/dependency_links.txt
+tensify.egg-info/top_level.txt

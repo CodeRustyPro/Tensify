@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: tensify
+Version: 0.0.0
+Summary: A python package which converts your tenses
+Home-page: https://github.com/CodeRustyPro/Tensify
+Author: Dev Shah
+Author-email: devshah1032@gmail.com
+License: UNKNOWN
+Description: # Tensify
+        
+        An easy to use pytho package to convert your tenses...
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

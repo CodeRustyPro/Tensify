@@ -5,7 +5,6 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tensify",
-    version="0.0.1",
     author="Dev Shah",
     author_email="devshah1032@gmail.com",
     description="A python package which converts your tenses",
