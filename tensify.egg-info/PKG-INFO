@@ -1,14 +1,54 @@
 Metadata-Version: 2.1
 Name: tensify
-Version: 0.0.0
+Version: 0.0.2
 Summary: A python package which converts your tenses
 Home-page: https://github.com/CodeRustyPro/Tensify
 Author: Dev Shah
 Author-email: devshah1032@gmail.com
 License: UNKNOWN
-Description: # Tensify
+Description: # Tensifyâ„¢
         
-        An easy to use pytho package to convert your tenses...
+        An easy to use python package to convert your tenses...
+        
+        
+        Features : 
+        1.Super-Simple
+        2.Easy
+        3.Minimalistic
+        4.Super-Fast
+        5.Open-Source
+        6.New Concept
+        7.Trusted
+        8.Free
+        
+        
+        Usage :
+        ```
+        import tensify
+        tensify.PAST("I get it")
+        # As simple as that 
+        ```
+        
+        Output : 
+        ```
+        I got it
+        ```
+        
+        
+        
+        Contributors : 
+        ```
+        1.Dev Shah (Contact : devshah1032@gmail.com)
+        2.Haard Majmudar (Contact : haardmajmudar2827@gmail.com)
+        ```
+        
+        
+        
+        License : 
+        ```
+        MIT License
+        Copyright (c) 2021 Dev Shah
+        ```
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
