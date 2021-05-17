@@ -1,0 +1,4 @@
+/tensify.egg-info
+/dist
+/build/*
+/test.py
